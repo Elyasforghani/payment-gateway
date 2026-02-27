@@ -35,24 +35,18 @@ Check out the interactive interface here:
 
 ---
 
-## 📂 Project Structure
+## ⚙️ Technical Highlights
+**Data Validation**
+All inputs are sanitized in real-time to ensure only numeric data is processed using a regex-based helper function:
+<br>
+**Success State**
+The "Pay Now" button features a dynamic success state that triggers upon interaction, changing the button text to "Done!" and updating the visual style.
+<br>
+## 👤 Author
+**Elyas Forghani**
 
-```text
-├── index.html          # Main structure and social links
-├── assets/
-│   ├── css.css         # Animations and Glassmorphism styles
-│   ├── js.js           # Input logic and card flip triggers
-│   └── img/
-│       └── 23.png      # Footer branding logo
+ * **LinkedIn** : Alireza Forghani
 
----
+* **Instagram**: @elyasforqani.dev
 
-### h
-   
-
-## 🚀 Quick Start
-1-Clone the repository:
-
-git clone [https://github.com/Elyasforghani/Secure-Payment-Card.git](https://github.com/Elyasforghani/Secure-Payment-Card.git)
-## 2-Open the project:
-Simplyclick the live demo above view the interface.
+* **GitHub**: @Elyasforghani

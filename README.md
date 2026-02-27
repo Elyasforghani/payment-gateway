@@ -43,10 +43,11 @@ All inputs are sanitized in real-time to ensure only numeric data is processed u
 The "Pay Now" button features a dynamic success state that triggers upon interaction, changing the button text to "Done!" and updating the visual style.
 <br>
 ## 👤 Author
+
 **Elyas Forghani**
+* **LinkedIn**: [Alireza Forghani](https://www.linkedin.com/in/alireza-forghani-b4746b263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* **Instagram**: [@elyasforqani.dev](https://www.instagram.com/elyasforqani.dev?igsh=MTlvenk0eTduZmtxdg==)
+* **GitHub**: [@Elyasforghani](https://github.com/Elyasforghani/Elyasforghani)
 
- * **LinkedIn** : Alireza Forghani
-
-* **Instagram**: @elyasforqani.dev
-
-* **GitHub**: @Elyasforghani
+---
+© 2026 Elyas Forghani. All rights reserved.

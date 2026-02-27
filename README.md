@@ -14,6 +14,8 @@ Check out the interactive interface here:
 ** **<a href="https://elyasforghani.github.io/payment-gateway/](https://elyasforghani.github.io/payment-gateway/">Click here</a>**
 
 ---
+<img width="787" height="384" alt="Image" src="https://github.com/user-attachments/assets/4265dfd6-6245-4f5a-9e3d-06a6f765509e" />
+---
 
 ## ✨ Key Features
 

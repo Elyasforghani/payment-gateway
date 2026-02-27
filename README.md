@@ -45,10 +45,7 @@ Check out the interactive interface here:
 │   └── img/
 │       └── 23.png      # Footer branding logo
 
-Gemini said
-Here is the complete, formatted Markdown for your README.md file. I have included the Live Demo link and ensured all sections—from the header to the author—are ready to be copied and pasted.
 
-Markdown
 # 💳 Interactive Glassmorphism Secure Payment
 
 A sleek, modern credit card checkout interface featuring a **Glassmorphism** design language. This project utilizes Vanilla JavaScript to provide real-time data reflection, automated input transitions, and 3D card animations.
@@ -94,6 +91,10 @@ Check out the interactive interface here:
 │   ├── js.js           # Input logic and card flip triggers
 │   └── img/
 │       └── 23.png      # Footer branding logo
+
+
+
+   
 
 ## 🚀 Quick Start
 1-Clone the repository:
